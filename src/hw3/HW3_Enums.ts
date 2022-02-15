@@ -20,6 +20,7 @@ export enum Homework3Shaders {
 /*
  * Make sure these match the animation names for your own animated sprite.
  */
+//
 export enum Homework3Animations {
 	CAR_IDLE = "idle",
 	CAR_BOOST = "boost",
